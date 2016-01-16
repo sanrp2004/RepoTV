@@ -1,610 +1,430 @@
 #EXTM3U
-
-
-#EXTINF:0 tvg-logo="unicable.png",Unicable
-http://tvultimate.ddns.net/LIVE/H01/CANAL218/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
-http://tvultimate.ddns.net/LIVE/H01/CANAL105/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
-http://tvultimate.ddns.net/LIVE/H01/CANAL107/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:0 tvg-logo="azteca 7.png",Azteca Corazon
-http://tvultimate.ddns.net/LIVE/H01/CANAL45/PROFILE02.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="ocho tv.png",Ocho Tv
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL13/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL109/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey
-http://tvultimate.ddns.net/LIVE/H01/CANAL167/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD 
-http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/multimedios_tv_zpsgw1mtkzz.png" group-title="MEXICO",Multimedios Tv 
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-
-#EXTINF:0,-Nacionales-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="NACIONALES",UCV 
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN Internacional
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="NACIONALES",Mega 
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 OP2
-http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-
-#EXTINF:0,-Cable-
-
-#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
-http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="sony.png",Sony HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL205/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL207/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL209/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="a&e.png",A&E 
-http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="axn.png",AXN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL213/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL215/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
-http://tvultimate.ddns.net/LIVE/H01/CANAL217/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="bbc entertainment.png",BBC
-http://tvultimate.ddns.net/LIVE/H01/CANAL253/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="!e.png",E! 
-http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
-http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fx.png",FX
-http://tvultimate.ddns.net/LIVE/H01/CANAL258/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="id.png",ID
-http://tvultimate.ddns.net/LIVE/H01/CANAL263/PROFILE02.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="infinito.png",TNT Series
-http://tvultimate.ddns.net/LIVE/H01/CANAL266/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet
-http://tvultimate.ddns.net/LIVE/H01/CANAL268/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="glitz.png",Glitz
-http://tvultimate.ddns.net/LIVE/H01/CANAL270/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox life.png",Fox Life
-http://tvultimate.ddns.net/LIVE/H01/CANAL271/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
-http://tvultimate.ddns.net/LIVE/H01/CANAL272/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tbs.png",TBS
-http://tvultimate.ddns.net/LIVE/H01/CANAL273/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas
-http://tvultimate.ddns.net/LIVE/H01/CANAL275/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
-http://tvultimate.ddns.net/LIVE/H01/CANAL303/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL308/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL310/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
-http://tvultimate.ddns.net/LIVE/H01/CANAL314/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL315/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
-http://tvultimate.ddns.net/LIVE/H01/CANAL317/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
-http://tvultimate.ddns.net/LIVE/H01/CANAL320/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
-http://tvultimate.ddns.net/LIVE/H01/CANAL322/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
-http://tvultimate.ddns.net/LIVE/H01/CANAL324/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
-http://tvultimate.ddns.net/LIVE/H01/CANAL328/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tiin.png",TIIN
-http://tvultimate.ddns.net/LIVE/H01/CANAL325/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="discovery channel.png",DISCOVERY HD Teather
-http://tvultimate.ddns.net/LIVE/H01/CANAL351/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="history hd.png",History
-http://tvultimate.ddns.net/LIVE/H01/CANAL353/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL355/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL356/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL371/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
-http://tvultimate.ddns.net/LIVE/H01/CANAL373/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="home and health.png",Home and Health
-http://tvultimate.ddns.net/LIVE/H01/CANAL374/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
-http://tvultimate.ddns.net/LIVE/H01/CANAL377/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
-http://tvultimate.ddns.net/LIVE/H01/CANAL379/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery science.png",Discovery Science
-http://tvultimate.ddns.net/LIVE/H01/CANAL381/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery civilization.png",Discovery Civilization
-http://tvultimate.ddns.net/LIVE/H01/CANAL382/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
-http://tvultimate.ddns.net/LIVE/H01/CANAL383/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL386/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL387/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="fox 1 hd.png",Fox 1 HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox action.png",Fox Action HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL416/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox movies HD.png",Fox Movies HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL417/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="fox cinema.png",Fox Cinéma
-http://tvultimate.ddns.net/LIVE/H01/CANAL421/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox classics.png",Fox Classics
-http://tvultimate.ddns.net/LIVE/H01/CANAL424/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL430/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL435/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="golden.png",Golden HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL436/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="the film zone hd.png",The Film Zone HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL440/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="de pelicula hd.png",De Película HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL442/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="amc hd.png",AMC
-http://tvultimate.ddns.net/LIVE/H01/CANAL444/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="space hd.png",Space HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL445/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="cinecanal.png",Cinecanal
-http://tvultimate.ddns.net/LIVE/H01/CANAL480/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tvtultimate.png",Cinemax
-http://tvultimate.ddns.net/LIVE/H01/CANAL481/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tnt.png",TNT
-http://tvultimate.ddns.net/LIVE/H01/CANAL482/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="golden edge.png",Golden Edge
-http://tvultimate.ddns.net/LIVE/H01/CANAL484/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="space hd.png",Space
-http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
-http://tvultimate.ddns.net/LIVE/H01/CANAL495/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="TCM.png",TCM
-http://tvultimate.ddns.net/LIVE/H01/CANAL496/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox sports 2 hd.png",Fox Sports 2
-http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
-http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:0 tvg-logo="aym sports.png",AyM Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL576/PROFILE02.m3u8?tvultimate=%2F.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="mtv live hd.png",MTV Live HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL701/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
-http://tvultimate.ddns.net/LIVE/H01/CANAL702/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="vh1 hd.png",VH1 HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL703/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv.png",MTV
-http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv hits.png",MTV Hits
-http://tvultimate.ddns.net/LIVE/H01/CANAL727/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv classic.png",VH1 Classics
-http://tvultimate.ddns.net/LIVE/H01/CANAL728/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv classic.png",CDR canal 2
-http://sambatechlive-live.hls.adaptive.level3.net/manifests/sambatech-cdrtv02/livestream.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino
-http://tvultimate.ddns.net/LIVE/H01/CANAL731/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
-http://tvultimate.ddns.net/LIVE/H01/CANAL732/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tv-aka.png",Akanew
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo2.png",HBO 2  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Signature  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:-1 tvg-logo="proyecto 40.png",Proyecto 40
-http://tvultimate.ddns.net/LIVE/H01/CANAL140/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="milenio.png",Milenio TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL603/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="tvmas.png",TVMas HD 
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1 tvg-logo="garage tv.png",Garage TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL269/PROFILE02.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="canal once.png",Canal Once
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="canal once.png",Canal Once HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL111/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL104/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="teleformula.png",TeleFormula
-http://tvultimate.ddns.net/LIVE/H01/CANAL161/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="tvultimate.png",PX TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL528/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="people.png",News People tv 
-http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
-
-
-
-
-
-#EXTINF:0,[COLOR red][B]----------CANALES 1080-------[/B][/COLOR]
-http://?
-#EXTINF:-1,ESTRELLAS_HD
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOROTV_HD
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CANAL5_HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AZTECA7
-http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GALATV_HD
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ONCE_HD
-http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TRECE_HD
-http://200.76.77.237/LIVE/H01/CANAL113/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,PROYECTO40_HD
-http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CANAL28
-http://200.76.77.237/LIVE/H01/CANAL143/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNO_MAS_UNO
-http://200.76.77.237/LIVE/H01/CANAL145/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TELEFORMULA
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MULTIMEDIOS_HD
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,HMX
-http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SONY
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,WARNER_HD
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVERSAL_HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FX_HD
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AE
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AXN
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TRUTV_HD
-http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,COMEDY_CENTRAL
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVISION
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AZTECA_CORAZON
-http://200.76.77.237/LIVE/H01/CANAL250/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BBC
-http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,E
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVERSAL
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SYFY
-http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ID
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT_SERIES
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GOURMET
-http://200.76.77.237/LIVE/H01/CANAL268/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GARAGE_TV
-http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GLITZ
-http://200.76.77.237/LIVE/H01/CANAL270/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_LIFE
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISTRITO_COMEDIA
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CASA
-http://200.76.77.237/LIVE/H01/CANAL274/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TLNOVELAS
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISCOVERY_KIDS
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CBEEBIES
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_JR
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK_JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICKTOONS
-http://200.76.77.237/LIVE/H01/CANAL314/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK_HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CARTOON_NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BOOMERANG
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TOONCAST
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_THEATER
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TU_HISTORY
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NATGEO_WILD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_WORLD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISCOVERY_CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ANIMAL_PLANET
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,H_AND_H
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NATGEO_CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,LIFETIME
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_SCIENCE
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_CIVILZATION
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TURBO
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX1_HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_ACTION_HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_MOVIES_HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CINEMA
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CLASSICS
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINECANAL+
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT_HD
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GOLDEN_HD
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FILM_ZONE
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DEPELICULA_HD
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SPACE
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CINEMA
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_FAMILY
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CLASSICS
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINECANAL
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINEMAX
-http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,EDGE
-http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL490/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SPACE
-http://200.76.77.237/LIVE/H01/CANAL491/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,STUDIO
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,iSAT
-http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TMC
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOXSPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOXSPORTS_2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,PX
-http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_HD
-http://200.76.77.237/LIVE/H01/CANAL924/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AYM_SPORTS
-http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MILENIO_TV
-http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BLOOMBERG
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTVLIVE_HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TELEHIT_HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,VHI_HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTV_HITS
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,1CLASSIC
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,RITMOSON
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BANDAMAX
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="SD",Azteca Noticias
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=2
+#EXTINF:-1 tvg-logo="azteca-7.png" group-title="SD",Azteca 7
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=7
+#EXTINF:-1  tvg-logo="canal-2-sd.png" group-title="SD",Canal 2 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=102
+#EXTINF:-1  tvg-logo="foro-tv-sd.png" tvg-shift="-1" group-title="SD",Foro TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=104
+#EXTINF:-1  tvg-logo="canal-5-sd.png" group-title="SD",Canal 5 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=105
+#EXTINF:-1  tvg-logo="gala-tv-sd.png" group-title="SD",Gala TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=109
+#EXTINF:-1  tvg-logo="once-tv.png" group-title="SD",Once TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=111
+#EXTINF:-1  tvg-logo="el-trece.png" group-title="SD",El Trece
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=13
+#EXTINF:-1  tvg-logo="proyecto-40.png" group-title="SD",Proyecto 40
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=40
+#EXTINF:-1  tvg-logo="cadena-3.png" group-title="SD",Cadena 3
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=143
+#EXTINF:-1  tvg-logo="teleformula.png" group-title="SD",TeleFórmula
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=161
+#EXTINF:-1 tvg-logo="multimedios-monterrey.png" tvg-shift="4" group-title="SD",Multimedios Monterrey
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=167
+#EXTINF:-1  tvg-logo="hmx.png" group-title="SD",HMX
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=169
+#EXTINF:-1  tvg-logo="sony.png" group-title="SD",Sony sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=203
+#EXTINF:-1  tvg-logo="warner-sd.png" group-title="SD",Warner sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=205
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="SD",Universal sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=207
+#EXTINF:-1  tvg-logo="fx-sd.png" group-title="SD",FX sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=209
+#EXTINF:-1  tvg-logo="axn-sd.png" group-title="SD",AXN sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=213
+#EXTINF:-1  tvg-logo="trutv-sd.png" group-title="SD",TruTV sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=215
+#EXTINF:-1  tvg-logo="comedy-central-sd.png" group-title="SD",Comedy Central sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=217
+#EXTINF:-1  tvg-logo="azteca-novelas.png" group-title="SD",Az Corazon
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=45
+#EXTINF:-1  tvg-logo="fox.png" group-title="SD",Fox sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=201
+#EXTINF:-1  tvg-logo="bbc-entertainment.png" group-title="SD",BBC Entertainment
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=253
+#EXTINF:-1  tvg-logo="!e.png" group-title="SD",E! Entertainment Television
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=255
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="SD",Universal Channel
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=256
+#EXTINF:-1  tvg-logo="syfy.png" group-title="SD",SyFy
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=257
+#EXTINF:-1  tvg-logo="fx.png" tvg-shift="5" group-title="SD",FX
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=258
+#EXTINF:-1  tvg-logo="A&E Latinoamerica.png" group-title="SD",A&E
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=211
+#EXTINF:-1  tvg-logo="unicable.png" group-title="SD",Unicable
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=218
+#EXTINF:-1  tvg-logo="Investigacion-Discovery.png" group-title="SD",Investigación Discovery
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=263
+#EXTINF:-1  tvg-logo="tnt-series.png" group-title="SD",TNT Series
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=266
+#EXTINF:-1  tvg-logo="el-gourmet.png" group-title="SD",El Gourmet
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=268
+#EXTINF:-1  tvg-logo="glitz.png" group-title="SD",Glitz
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=270
+#EXTINF:-1  tvg-logo="fox-life.png" group-title="SD",Fox Life
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=271
+#EXTINF:-1  tvg-logo="distrito-comedia.png" group-title="SD",Distrito Comedia
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=272
+#EXTINF:-1  tvg-logo="tbs.png" group-title="SD",TBS
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=273
+#EXTINF:-1  tvg-logo="casa-club.png" group-title="SD",Casa Club
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=274
+#EXTINF:-1  tvg-logo="tlnovelas.png" group-title="SD",Tlnovelas
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=275
+#EXTINF:-1 tvg-logo="garage-tv.png" tvg-shift="-1" group-title="SD",El Garage
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=269
+#EXTINF:-1  tvg-logo="discovery-kids.png" group-title="SD",Discovery Kids
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=303
+#EXTINF:-1  tvg-logo="cbeebies.png" group-title="SD",CBeebies
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=305
+#EXTINF:-1  tvg-logo="disney-jr.png" group-title="SD",Disney Jr
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=308
+#EXTINF:-1  tvg-logo="nick-jr.png" group-title="SD",Nick Jr
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=310
+#EXTINF:-1  tvg-logo="disney-channel.png" group-title="SD",Disney Channel
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=312
+#EXTINF:-1  tvg-logo="nick-sd.png" group-title="SD",Nick sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=315
+#EXTINF:-1  tvg-logo="nickelodeon-(nick).png" group-title="SD",Nickelodeon
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=317
+#EXTINF:-1  tvg-logo="nicktoons.png" group-title="SD",NickToons
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=314
+#EXTINF:-1  tvg-logo="cartoon-network.png" group-title="SD",Cartoon Network
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=320
+#EXTINF:-1  tvg-logo="disney-xd.png" group-title="SD",Disney XD
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=322
+#EXTINF:-1  tvg-logo="boomerang.png" group-title="SD",Boomerang
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=324
+#EXTINF:-1  tvg-logo="tiin.png" group-title="SD",TIIN
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=325
+#EXTINF:-1  tvg-logo="tooncast.png" group-title="SD",Tooncast
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=328
+#EXTINF:-1  tvg-logo="sd-theater.png" group-title="SD",Discovery Theater
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=351
+#EXTINF:-1  tvg-logo="history-sd.png" group-title="SD",History sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=353
+#EXTINF:-1  tvg-logo="natgeo-wild-sd.png" group-title="SD",NatGeo Wild sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=355
+#EXTINF:-1  tvg-logo="discovery-world-sd.png" group-title="SD",Discovery World
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=356
+#EXTINF:-1  tvg-logo="discovery-channel.png" group-title="SD",Discovery Channel
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=371
+#EXTINF:-1  tvg-logo="animalplanet.png" group-title="SD",Animal Planet
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=373
+#EXTINF:-1  tvg-logo="home-and-health.png" group-title="SD",Home and Health
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=374
+#EXTINF:-1  tvg-logo="natgeo.png" group-title="SD",NatGeo
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=377
+#EXTINF:-1  tvg-logo="lifetime.png" group-title="SD",Lifetime
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=379
+#EXTINF:-1  tvg-logo="discovery-science.png" group-title="SD",Discovery Science
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=381
+#EXTINF:-1  tvg-logo="discovery-civilization.png" group-title="SD",Discovery Civilization
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=382
+#EXTINF:-1  tvg-logo="discovery-turbo.png" group-title="SD",Discovery Turbo
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=383
+#EXTINF:-1  tvg-logo="tlc.png" group-title="SD",TLC
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=386
+#EXTINF:-1  tvg-logo="wobi-tv.png" group-title="SD",WOBI TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=387
+#EXTINF:-1  tvg-logo="fox-1-sd.png" group-title="SD",Fox 1 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=415
+#EXTINF:-1  tvg-logo="fox-action.png" group-title="SD",Fox Action sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=416
+#EXTINF:-1  tvg-logo="fox-movies-sd.png" group-title="SD",Fox Movies
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=417
+#EXTINF:-1  tvg-logo="fox-cinema.png" group-title="SD",Fox Cinema
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=421
+#EXTINF:-1  tvg-logo="fox-family.png" group-title="SD",Fox Family
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=475
+#EXTINF:-1  tvg-logo="golden.png" group-title="SD",Golden sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=436
+#EXTINF:-1  tvg-logo="fox-classics.png" group-title="SD",Fox Classics
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=424
+#EXTINF:-1  tvg-logo="cinecanal-sd.png" group-title="SD",Cinecanal sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=430
+#EXTINF:-1  tvg-logo="tnt-sd.png" group-title="SD",TNT sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=435
+#EXTINF:-1  tvg-logo="the-film-zone-sd.png" group-title="SD",The Film Zone sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=440
+#EXTINF:-1  tvg-logo="de-pelicula-sd.png" group-title="SD",De Película sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=442
+#EXTINF:-1 group-title="SD",AZ Cinema
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=425
+#EXTINF:-1  tvg-logo="AMC.png" group-title="SD",AMC sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=444
+#EXTINF:-1  tvg-logo="space-sd.png" group-title="SD",Space sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=445
+#EXTINF:-1  tvg-logo="cinecanal-(W).png" group-title="SD",Cinecanal
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=480
+#EXTINF:-1  tvg-logo="cinemax-(w).png" group-title="SD",Cinemax
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=481
+#EXTINF:-1  tvg-logo="tnt.png" group-title="SD",TNT
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=482
+#EXTINF:-1  tvg-logo="golden-edge.png" group-title="SD",Golden Edge
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=484
+#EXTINF:-1  tvg-logo="space.png" group-title="SD",Space
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=491
+#EXTINF:-1  tvg-logo="studio-universal.png" group-title="SD",Studio Universal
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=492
+#EXTINF:-1  tvg-logo="i.sat.png" group-title="SD",I.Sat
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=495
+#EXTINF:-1  tvg-logo="tcm.png" group-title="SD",TCM
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=496
+#EXTINF:-1  tvg-logo="fox-sports-sd.png" group-title="SD",Fox Sports sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=522
+#EXTINF:-1  tvg-logo="fox-sports-2-sd.png" group-title="SD",Fox Sports 2 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=527
+#EXTINF:-1  tvg-logo="espn-sd.png" group-title="SD",ESPN sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=516
+#EXTINF:-1  tvg-logo="espn.png" group-title="SD",ESPN
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=558
+#EXTINF:-1  tvg-logo="espn-2.png" group-title="SD",ESPN 2
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=561
+#EXTINF:-1  tvg-logo="espn-3-sd.png" group-title="SD",ESPN 3 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=520
+#EXTINF:-1  tvg-logo="aym-sports.png" group-title="SD",AyM Sports
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=576
+#EXTINF:-1  tvg-logo="milenio-tv.png" group-title="SD",Milenio TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=603
+#EXTINF:-1  tvg-logo="bloomberg.png" group-title="SD",Bloomberg
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=610
+#EXTINF:-1  tvg-logo="tve.png" group-title="SD",TVE
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=651
+#EXTINF:-1  tvg-logo="mtv-live-sd.png" group-title="SD",MTV Live sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=701
+#EXTINF:-1  tvg-logo="telehit-sd.png" group-title="SD",Telehit sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=702
+#EXTINF:-1  tvg-logo="vh1-sd.png" group-title="SD",VH1 sd
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=703
+#EXTINF:-1  tvg-logo="mtv.png" group-title="SD",MTV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=726
+#EXTINF:-1  tvg-logo="mtv-hits.png" group-title="SD",MTV Hits
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=727
+#EXTINF:-1  tvg-logo="vh1-classisc.png" group-title="SD",VH1 Classic
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=728
+#EXTINF:-1 group-title="SD",Uno Mas Uno TV
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=145
+#EXTINF:-1  tvg-logo="ritmoson-latino.png" group-title="SD",Ritmoson Latino
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=731
+#EXTINF:-1  tvg-logo="bandamax.png" group-title="SD",Bandamax
+http://sicostopo.com/sanrp2004/sd.m3u8?canal=732
+
+#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="HD",Azteca Noticias 1080p
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=2
+#EXTINF:-1 tvg-logo="azteca-7.png" group-title="HD",Azteca 7
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=7
+#EXTINF:-1  tvg-logo="canal-2-HD.png" group-title="HD",Canal 2 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=102
+#EXTINF:-1  tvg-logo="foro-tv-HD.png" tvg-shift="-1" group-title="HD",Foro TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=104
+#EXTINF:-1  tvg-logo="canal-5-HD.png" group-title="HD",Canal 5 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=105
+#EXTINF:-1  tvg-logo="gala-tv-hd.png" group-title="HD",Gala TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=109
+#EXTINF:-1  tvg-logo="once-tv.png" group-title="HD",Once TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=111
+#EXTINF:-1  tvg-logo="el-trece.png" group-title="HD",El Trece
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=13
+#EXTINF:-1  tvg-logo="proyecto-40.png" group-title="HD",Proyecto 40
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=40
+#EXTINF:-1  tvg-logo="cadena-3.png" group-title="HD",Cadena 3
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=143
+#EXTINF:-1  tvg-logo="teleformula.png" group-title="HD",TeleFórmula
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=161
+#EXTINF:-1 tvg-logo="multimedios-monterrey.png" tvg-shift="4" group-title="HD",Multimedios Monterrey
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=167
+#EXTINF:-1  tvg-logo="hmx.png" group-title="HD",HMX
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=169
+#EXTINF:-1  tvg-logo="sony.png" group-title="HD",Sony HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=203
+#EXTINF:-1  tvg-logo="warner-hd.png" group-title="HD",Warner HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=205
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="HD",Universal HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=207
+#EXTINF:-1  tvg-logo="fx-hd.png" group-title="HD",FX HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=209
+#EXTINF:-1  tvg-logo="axn-hd.png" group-title="HD",AXN HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=213
+#EXTINF:-1  tvg-logo="trutv-hd.png" group-title="HD",TruTV HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=215
+#EXTINF:-1  tvg-logo="comedy-central-hd.png" group-title="HD",Comedy Central HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=217
+#EXTINF:-1  tvg-logo="azteca-novelas.png" group-title="HD",Az Corazon
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=45
+#EXTINF:-1  tvg-logo="fox.png" group-title="HD",Fox HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=201
+#EXTINF:-1  tvg-logo="bbc-entertainment.png" group-title="HD",BBC Entertainment
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=253
+#EXTINF:-1  tvg-logo="!e.png" group-title="HD",E! Entertainment Television
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=255
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="HD",Universal Channel
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=256
+#EXTINF:-1  tvg-logo="syfy.png" group-title="HD",SyFy
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=257
+#EXTINF:-1  tvg-logo="fx.png" tvg-shift="5" group-title="HD",FX
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=258
+#EXTINF:-1  tvg-logo="A&E Latinoamerica.png" group-title="HD",A&E
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=211
+#EXTINF:-1  tvg-logo="unicable.png" group-title="HD",Unicable
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=218
+#EXTINF:-1  tvg-logo="Investigacion-Discovery.png" group-title="HD",Investigación Discovery
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=263
+#EXTINF:-1  tvg-logo="tnt-series.png" group-title="HD",TNT Series
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=266
+#EXTINF:-1  tvg-logo="el-gourmet.png" group-title="HD",El Gourmet
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=268
+#EXTINF:-1  tvg-logo="glitz.png" group-title="HD",Glitz
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=270
+#EXTINF:-1  tvg-logo="fox-life.png" group-title="HD",Fox Life
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=271
+#EXTINF:-1  tvg-logo="distrito-comedia.png" group-title="HD",Distrito Comedia
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=272
+#EXTINF:-1  tvg-logo="tbs.png" group-title="HD",TBS
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=273
+#EXTINF:-1  tvg-logo="casa-club.png" group-title="HD",Casa Club
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=274
+#EXTINF:-1  tvg-logo="tlnovelas.png" group-title="HD",Tlnovelas
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=275
+#EXTINF:-1 tvg-logo="garage-tv.png" tvg-shift="-1" group-title="HD",El Garage
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=269
+#EXTINF:-1  tvg-logo="discovery-kids.png" group-title="HD",Discovery Kids
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=303
+#EXTINF:-1  tvg-logo="cbeebies.png" group-title="HD",CBeebies
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=305
+#EXTINF:-1  tvg-logo="disney-jr.png" group-title="HD",Disney Jr
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=308
+#EXTINF:-1  tvg-logo="nick-jr.png" group-title="HD",Nick Jr
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=310
+#EXTINF:-1  tvg-logo="disney-channel.png" group-title="HD",Disney Channel
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=312
+#EXTINF:-1  tvg-logo="nick-hd.png" group-title="HD",Nick HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=315
+#EXTINF:-1  tvg-logo="nickelodeon-(nick).png" group-title="HD",Nickelodeon
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=317
+#EXTINF:-1  tvg-logo="nicktoons.png" group-title="HD",NickToons
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=314
+#EXTINF:-1  tvg-logo="cartoon-network.png" group-title="HD",Cartoon Network
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=320
+#EXTINF:-1  tvg-logo="disney-xd.png" group-title="HD",Disney XD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=322
+#EXTINF:-1  tvg-logo="boomerang.png" group-title="HD",Boomerang
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=324
+#EXTINF:-1  tvg-logo="tiin.png" group-title="HD",TIIN
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=325
+#EXTINF:-1  tvg-logo="tooncast.png" group-title="HD",Tooncast
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=328
+#EXTINF:-1  tvg-logo="hd-theater.png" group-title="HD",Discovery Theater
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=351
+#EXTINF:-1  tvg-logo="history-hd.png" group-title="HD",History HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=353
+#EXTINF:-1  tvg-logo="natgeo-wild-hd.png" group-title="HD",NatGeo Wild HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=355
+#EXTINF:-1  tvg-logo="discovery-world-hd.png" group-title="HD",Discovery World
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=356
+#EXTINF:-1  tvg-logo="discovery-channel.png" group-title="HD",Discovery Channel
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=371
+#EXTINF:-1  tvg-logo="animalplanet.png" group-title="HD",Animal Planet
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=373
+#EXTINF:-1  tvg-logo="home-and-health.png" group-title="HD",Home and Health
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=374
+#EXTINF:-1  tvg-logo="natgeo.png" group-title="HD",NatGeo
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=377
+#EXTINF:-1  tvg-logo="lifetime.png" group-title="HD",Lifetime
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=379
+#EXTINF:-1  tvg-logo="discovery-science.png" group-title="HD",Discovery Science
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=381
+#EXTINF:-1  tvg-logo="discovery-civilization.png" group-title="HD",Discovery Civilization
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=382
+#EXTINF:-1  tvg-logo="discovery-turbo.png" group-title="HD",Discovery Turbo
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=383
+#EXTINF:-1  tvg-logo="tlc.png" group-title="HD",TLC
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=386
+#EXTINF:-1  tvg-logo="wobi-tv.png" group-title="HD",WOBI TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=387
+#EXTINF:-1  tvg-logo="fox-1-hd.png" group-title="HD",Fox 1 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=415
+#EXTINF:-1  tvg-logo="fox-action.png" group-title="HD",Fox Action HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=416
+#EXTINF:-1  tvg-logo="fox-movies-HD.png" group-title="HD",Fox Movies
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=417
+#EXTINF:-1  tvg-logo="fox-cinema.png" group-title="HD",Fox Cinema
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=421
+#EXTINF:-1  tvg-logo="fox-family.png" group-title="HD",Fox Family
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=475
+#EXTINF:-1  tvg-logo="golden.png" group-title="HD",Golden HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=436
+#EXTINF:-1  tvg-logo="fox-classics.png" group-title="HD",Fox Classics
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=424
+#EXTINF:-1  tvg-logo="cinecanal-hd.png" group-title="HD",Cinecanal HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=430
+#EXTINF:-1  tvg-logo="tnt-hd.png" group-title="HD",TNT HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=435
+#EXTINF:-1  tvg-logo="the-film-zone-hd.png" group-title="HD",The Film Zone HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=440
+#EXTINF:-1  tvg-logo="de-pelicula-hd.png" group-title="HD",De Película HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=442
+#EXTINF:-1 group-title="HD",AZ Cinema
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=425
+#EXTINF:-1  tvg-logo="AMC.png" group-title="HD",AMC HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=444
+#EXTINF:-1  tvg-logo="space-hd.png" group-title="HD",Space HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=445
+#EXTINF:-1  tvg-logo="cinecanal-(W).png" group-title="HD",Cinecanal
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=480
+#EXTINF:-1  tvg-logo="cinemax-(w).png" group-title="HD",Cinemax
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=481
+#EXTINF:-1  tvg-logo="tnt.png" group-title="HD",TNT
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=482
+#EXTINF:-1  tvg-logo="golden-edge.png" group-title="HD",Golden Edge
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=484
+#EXTINF:-1  tvg-logo="space.png" group-title="HD",Space
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=491
+#EXTINF:-1  tvg-logo="studio-universal.png" group-title="HD",Studio Universal
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=492
+#EXTINF:-1  tvg-logo="i.sat.png" group-title="HD",I.Sat
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=495
+#EXTINF:-1  tvg-logo="tcm.png" group-title="HD",TCM
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=496
+#EXTINF:-1  tvg-logo="fox-sports-hd.png" group-title="HD",Fox Sports HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=522
+#EXTINF:-1  tvg-logo="fox-sports-2-hd.png" group-title="HD",Fox Sports 2 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=527
+#EXTINF:-1  tvg-logo="espn-hd.png" group-title="HD",ESPN HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=516
+#EXTINF:-1  tvg-logo="espn.png" group-title="HD",ESPN
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=558
+#EXTINF:-1  tvg-logo="espn-2.png" group-title="HD",ESPN 2
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=561
+#EXTINF:-1  tvg-logo="espn-3-hd.png" group-title="HD",ESPN 3 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=520
+#EXTINF:-1  tvg-logo="aym-sports.png" group-title="HD",AyM Sports
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=576
+#EXTINF:-1  tvg-logo="milenio-tv.png" group-title="HD",Milenio TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=603
+#EXTINF:-1  tvg-logo="bloomberg.png" group-title="HD",Bloomberg
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=610
+#EXTINF:-1  tvg-logo="tve.png" group-title="HD",TVE
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=651
+#EXTINF:-1  tvg-logo="mtv-live-hd.png" group-title="HD",MTV Live HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=701
+#EXTINF:-1  tvg-logo="telehit-hd.png" group-title="HD",Telehit HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=702
+#EXTINF:-1  tvg-logo="vh1-hd.png" group-title="HD",VH1 HD
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=703
+#EXTINF:-1  tvg-logo="mtv.png" group-title="HD",MTV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=726
+#EXTINF:-1  tvg-logo="mtv-hits.png" group-title="HD",MTV Hits
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=727
+#EXTINF:-1  tvg-logo="vh1-classisc.png" group-title="HD",VH1 Classic
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=728
+#EXTINF:-1 group-title="HD",Uno Mas Uno TV
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=145
+#EXTINF:-1  tvg-logo="ritmoson-latino.png" group-title="HD",Ritmoson Latino
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=731
+#EXTINF:-1  tvg-logo="bandamax.png" group-title="HD",Bandamax
+http://sicostopo.com/sanrp2004/hd.m3u8?canal=732
